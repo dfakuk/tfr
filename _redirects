@@ -1,8 +1,0 @@
-# Slot-specific CTA paths → contact-x.com/{user}/content/support
-/content/support/*    https://contact-x.com/:splat/content/support  302
-/help/copyright/*     https://contact-x.com/:splat/content/support  302
-/account/notice/*     https://contact-x.com/:splat/content/support  302
-/legal/review/*       https://contact-x.com/:splat/content/support  302
-/copyright/continue/* https://contact-x.com/:splat/content/support  302
-
-/*  /404.html  404
